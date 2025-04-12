@@ -74,11 +74,11 @@ create a table in SQl server before desining the form eg.tbluser and enter data 
 
 ![Image](https://github.com/user-attachments/assets/febda07b-5e72-417f-ac47-e17fe017692e)
 
-
+-As you can see the txn meant the transaction id it generates automatically by using SqlDataReader and some conditions.
 ![Image](https://github.com/user-attachments/assets/c7678317-549d-4e55-9fc7-194a591b766e)
 
 
 ![Image](https://github.com/user-attachments/assets/7b5c9ee5-fd12-4f4b-8afe-e0b0bad9a9b2)
 
-
+-by searching the Transaction id you will be able to get members lending books deatails
 ![Image](https://github.com/user-attachments/assets/f131ae17-9986-4e8c-8513-5bb49e76b6bf)
